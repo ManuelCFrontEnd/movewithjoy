@@ -1,0 +1,32 @@
+main{
+    max-width: 80%;
+    margin: auto;
+  }
+  .brand {
+    height: 30px;
+    margin-right: 10px;
+  }
+  h1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: clamp(30px, 6vw, 70px);
+  }
+  #welcome{
+    text-align: center;
+    width: 55%;
+    margin: auto;
+    font-size: clamp(15px, 2vw, 20px);
+  }
+  .container-sm{
+    display: flex;
+    justify-content: center;
+  }
+  .img-fluid{
+    border-radius: 10px;
+  }
+  #carouselExampleFade{
+    width: auto;
+  }
+  .container-fluid{
+    text-align: center;
+  }
